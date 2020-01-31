@@ -4,12 +4,9 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/ruth-bike.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+ 
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.2">Latest release v4.16.2</a></small>
+  Gravel Grinding Wine Drinking Women
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
