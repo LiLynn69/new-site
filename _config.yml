@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "LiLy Hammer"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/pinky-sm.png"
   bio    : "Working hard to figure this darn thing out."
   links:
     - label: "Website"
