@@ -21,22 +21,21 @@ intro:
                <div class="col-sm-4 col-sm-offset-2">
                   <div class="team-member">
                       <ul>        
-                        {% for person1 in person1 %}
+                        {% for bio in person1 %}
                         {% include people.html %}
                         {% endfor %}
                      </ul>
-
                 </div>
               </div>
             </div>
           <div class="row">
             <div class="col-sm-2">
                 <div class="team-member">
-                <ul>        
-                  {% for person in person %}
-                  {% include people.html %}
-                  {% endfor %}
-               </ul>
+                  <ul>        
+                    {% for bio in person %}
+                    {% include people.html %}
+                    {% endfor %}
+                 </ul>
               </div>
             </div>
           </div>
