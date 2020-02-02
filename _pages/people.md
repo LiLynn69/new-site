@@ -21,7 +21,7 @@ intro:
                   <h2>{{ person1.name }}</h2>
                   <h3>{{ person1.title }}</h3>
                   <p class="text-muted">{{ person1.college }}</p>
-                  <ul><span class="list-inline social-buttons><li>{{ person1.links}}</li>
+                  <ul class="list-inline social-buttons><li>{{ person1.links}}</li>
                   </ul>
                   {% endfor %}
                 </div>
@@ -35,7 +35,7 @@ intro:
                  <h2>{{ person1.name }}</h2>
                  <h3>{{ person1.title }}</h3>
                  <p class="text-muted">{{ person1.college }}</p>
-                 <ul><span class="list-inline social-buttons><li>{{ person1.links}}</li>
+                 <ul class="list-inline social-buttons><li>{{ person1.links}}</li>
                  </ul>
                  {% endfor %}
               </div>
