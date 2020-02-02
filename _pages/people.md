@@ -4,7 +4,7 @@ layout: collection
 permalink: /people/
 classes: landing
 header:
-  overlay_image: /assets/img/ivy.jpg
+  overlay_image: /assets/images/ruth-bike.jpg
 intro:
     - excerpt: 'Our interdisciplinary research team combines expertise in algorithms, networking, programming languages, systems, and verification.'
 ---

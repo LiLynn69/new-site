@@ -1,9 +1,9 @@
 person1:
 -
+    pic: "/assets/images/pinky-sm.png"
     name: "Nate Foster"
     title: "Co-Director"
     college: "Cornell"
-    avatar: "/assets/img/nate.jpg"
     links:
       - icon: "fa fa-envelope"
         url: "mailto:jnfoster@cs.cornell.edu"
@@ -12,10 +12,10 @@ person1:
       - icon: "fab fa-twitter"
         url: "https://twitter.com/natefoster"
 -
+    pic: "/assets/images/pinky-sm.png"
     name: "Nate Foster"
     title: "Co-Director"
     college: "Cornell"
-    avatar: "/assets/img/nate.jpg"
     links:
       - icon: "fa fa-envelope"
         url: "mailto:jnfoster@cs.cornell.edu"
@@ -26,9 +26,9 @@ person1:
 
 person:
 -
+    pic: "/assets/images/pinky-sm.png"
     name: "Nate Foster"
     college: "Cornell"
-    avatar: "/assets/img/nate.jpg"
     links:
       - icon: "fa fa-envelope"
         url: "mailto:jnfoster@cs.cornell.edu"
@@ -37,9 +37,9 @@ person:
       - icon: "fab fa-twitter"
         url: "https://twitter.com/natefoster"
 -
+    pic: "/assets/images/pinky-sm.png"
     name: "Nate Foster"
     college: "Cornell"
-    avatar: "/assets/img/nate.jpg"
     links:
       - icon: "fa fa-envelope"
         url: "mailto:jnfoster@cs.cornell.edu"
