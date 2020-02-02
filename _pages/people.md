@@ -11,35 +11,32 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
+{% assign person1 = site.data.people | where:'type','person1' %}
+{% assign person = site.data.people | where:'type','person' %}
+
+
 
 <div class="container">
              <div class="row">
                <div class="col-sm-4 col-sm-offset-2">
                   <div class="team-member">
-                    <div class="person1">
-                    {% for person1 in site.data.people %}
-                  <img src="{{ site.baseurl }} {{ person1.pic }}" class="img-responsive img-circle" alt="">
-                  <h2>{{ person1.name }}</h2>
-                  <h3>{{ person1.title }}</h3>
-                  <p class="text-muted">{{ person1.college }}</p>
-                  <ul class="list-inline social-buttons><li>{{ person1.links}}</li>
-                  </ul>
-                  {% endfor %}
-                   </div>
+                      <div>        
+                        {% for person1 in person1 %}
+                        {% include people.html %}
+                        {% endfor %}
+                     </div>
+
                 </div>
               </div>
             </div>
           <div class="row">
             <div class="col-sm-2">
                 <div class="team-member">
-                {% for person in site.data.people %}
-                 <img src="{{ site.baseurl }} {{ person1.pic }}" class="img-responsive img-circle" alt="">
-                 <h2>{{ person1.name }}</h2>
-                 <h3>{{ person1.title }}</h3>
-                 <p class="text-muted">{{ person1.college }}</p>
-                 <ul class="list-inline social-buttons><li>{{ person1.links}}</li>
-                 </ul>
-                 {% endfor %}
+                <div>        
+                  {% for person in person %}
+                  {% include people.html %}
+                  {% endfor %}
+               </div>
               </div>
             </div>
           </div>
