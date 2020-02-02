@@ -20,11 +20,11 @@ intro:
              <div class="row">
                <div class="col-sm-4 col-sm-offset-2">
                   <div class="team-member">
-                      <div>        
+                      <ul>        
                         {% for person1 in person1 %}
                         {% include people.html %}
                         {% endfor %}
-                     </div>
+                     </ul>
 
                 </div>
               </div>
@@ -32,11 +32,11 @@ intro:
           <div class="row">
             <div class="col-sm-2">
                 <div class="team-member">
-                <div>        
+                <ul>        
                   {% for person in person %}
                   {% include people.html %}
                   {% endfor %}
-               </div>
+               </ul>
               </div>
             </div>
           </div>
