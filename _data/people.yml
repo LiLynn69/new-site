@@ -1,21 +1,49 @@
+person1:
 -
-    title: "P4: Programming Protocol-Independent Packet Processors"
-    authors: "Pat Bosshart, Dan Daly, Glen Gibb, Martin Izzard, Nick McKeown, Jennifer Rexford, Cole Schlesinger, Dan Talayco, Amin Vahdat, George Varghese, and David Walker"
-    venue: "ACM SIGCOMM Computer Communication Review (CCR)"
-    date: '2014-07-03'
-    url: 'https://dl.acm.org/citation.cfm?id=2656890'
-    type: 'journal'
+    name: "Nate Foster"
+    title: "Co-Director"
+    college: "Cornell"
+    avatar: "/assets/img/nate.jpg"
+    links:
+      - icon: "fa fa-envelope"
+        url: "mailto:jnfoster@cs.cornell.edu"
+      - icon: "fa fa-home"
+        url: "http://www.cs.cornell.edu/~jnfoster/"
+      - icon: "fab fa-twitter"
+        url: "https://twitter.com/natefoster"
 -
-    title: "Compiling Packet Programs to Reconfigurable Switches"
-    authors: "Lavanya Jose, Lisa Yan, George Varghese, and Nick McKeown"
-    venue: "USENIX Symposium on Networked Systems Design and Implementation (NSDI)"
-    date: '2015-05-04'
-    url: 'https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-jose.pdf'
-    type: 'conference'
+    name: "Nate Foster"
+    title: "Co-Director"
+    college: "Cornell"
+    avatar: "/assets/img/nate.jpg"
+    links:
+      - icon: "fa fa-envelope"
+        url: "mailto:jnfoster@cs.cornell.edu"
+      - icon: "fa fa-home"
+        url: "http://www.cs.cornell.edu/~jnfoster/"
+      - icon: "fab fa-twitter"
+        url: "https://twitter.com/natefoster"
+
+person:
 -
-    title: "DC.p4: programming the forwarding plane of a data-center switch"
-    authors: "Anirudh Sivaraman, Changhoon Kim, Ramkumar Krishnamoorthy, Advait Dixit, and Mihai Budiu"
-    venue: "ACM SIGCOMM Symposium on Software Defined Networking Research (SOSR)"
-    date: '2015-06-17'
-    url: 'https://dl.acm.org/citation.cfm?id=2775007'
-    type: 'conference'
+    name: "Nate Foster"
+    college: "Cornell"
+    avatar: "/assets/img/nate.jpg"
+    links:
+      - icon: "fa fa-envelope"
+        url: "mailto:jnfoster@cs.cornell.edu"
+      - icon: "fa fa-home"
+        url: "http://www.cs.cornell.edu/~jnfoster/"
+      - icon: "fab fa-twitter"
+        url: "https://twitter.com/natefoster"
+-
+    name: "Nate Foster"
+    college: "Cornell"
+    avatar: "/assets/img/nate.jpg"
+    links:
+      - icon: "fa fa-envelope"
+        url: "mailto:jnfoster@cs.cornell.edu"
+      - icon: "fa fa-home"
+        url: "http://www.cs.cornell.edu/~jnfoster/"
+      - icon: "fab fa-twitter"
+        url: "https://twitter.com/natefoster"

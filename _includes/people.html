@@ -1,9 +1,17 @@
-<li class="paper">
-<span class="title">
-{% if paper.url %}<a href="{{ paper.url }}">{% endif %}&ldquo;{{ paper.title }}.&rdquo;{% if paper.url %}</a>{% endif %}
+<li class="person1">
+<span class="avatar">{{ person1.avatar }}</span>
+<span class="name">{{ person1.name }}</span>
+<span class="title">{{ person1.title }}</span>
+<span class="college">{{ person1.college }}</span>
+<span class="links">
+{{ person1.links}}
 </span>
-<span class="authors">{{ paper.authors }}.</span>
-<span>
-{{ paper.date | date: "%B %Y" }}. In <i>{{ paper.venue }}</i>.
+</li>
+
+<li class="person">
+<span class="name">{{ person.name }}</span>
+<span class="college">{{ person.college }}</span>
+<span class="links">
+{{ person.links}}
 </span>
 </li>
