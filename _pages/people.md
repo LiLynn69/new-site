@@ -16,6 +16,7 @@ intro:
              <div class="row">
                <div class="col-sm-4 col-sm-offset-2">
                   <div class="team-member">
+                    <div class="person1">
                     {% for person1 in site.data.people %}
                   <img src="{{ site.baseurl }} {{ person1.pic }}" class="img-responsive img-circle" alt="">
                   <h2>{{ person1.name }}</h2>
@@ -24,6 +25,7 @@ intro:
                   <ul class="list-inline social-buttons><li>{{ person1.links}}</li>
                   </ul>
                   {% endfor %}
+                   </div>
                 </div>
               </div>
             </div>
