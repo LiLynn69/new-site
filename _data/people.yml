@@ -1,5 +1,6 @@
-person1:
+
 -
+    type: "person1"
     pic: "/assets/images/pinky-sm.png"
     name: "Nate Foster"
     title: "Co-Director"
@@ -12,6 +13,7 @@ person1:
       - icon: "fab fa-twitter"
         url: "https://twitter.com/natefoster"
 -
+    type: "person1"
     pic: "/assets/images/pinky-sm.png"
     name: "Nate Foster"
     title: "Co-Director"
@@ -24,8 +26,8 @@ person1:
       - icon: "fab fa-twitter"
         url: "https://twitter.com/natefoster"
 
-person:
 -
+    type: "person"
     pic: "/assets/images/pinky-sm.png"
     name: "Nate Foster"
     college: "Cornell"
@@ -37,6 +39,7 @@ person:
       - icon: "fab fa-twitter"
         url: "https://twitter.com/natefoster"
 -
+    type: "person"
     pic: "/assets/images/pinky-sm.png"
     name: "Nate Foster"
     college: "Cornell"
