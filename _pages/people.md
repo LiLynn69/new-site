@@ -26,6 +26,10 @@ intro:
                         {% include people.html %}
                         {% endfor %}
                      </ul>
+                 </div>
+               </div>
+               <div class="col-sm-4">
+                  <div class="team-member">
                      <ul>        
                         {% for bio in coauthor2 %}
                         {% include people.html %}
