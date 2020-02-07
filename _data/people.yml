@@ -1,7 +1,7 @@
 
 -
     type: 'coauthor1'
-    pic: "/assets/images/pinky-sm.png"
+    pic: "pinky-sm.png"
     name: "Nate Foster"
     title: "Co-Director"
     college: "Cornell"
@@ -14,7 +14,7 @@
         url: "https://twitter.com/natefoster"
 -
     type: 'coauthor2'
-    pic: "/assets/images/pinky-sm.png"
+    pic: "pinky-sm.png"
     name: "Second Co-Director"
     title: "Co-Director"
     college: "Cornell"
@@ -28,7 +28,7 @@
 
 -
     type: 'person'
-    pic: "/assets/images/pinky-sm.png"
+    pic: "pinky-sm.png"
     name: "Member 1"
     college: "Cornell"
     links:
@@ -40,7 +40,7 @@
         url: "https://twitter.com/natefoster"
 -
     type: 'person'
-    pic: "/assets/images/pinky-sm.png"
+    pic: "pinky-sm.png"
     name: "Member 2"
     college: "Cornell"
     links:
