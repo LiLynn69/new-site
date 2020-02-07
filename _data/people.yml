@@ -1,6 +1,5 @@
-
 -
-    type: "person1"
+    type: "coauthor1"
     pic: "/assets/images/pinky-sm.png"
     name: "Nate Foster"
     title: "Co-Director"
@@ -13,7 +12,7 @@
       - icon: "fab fa-twitter"
         url: "https://twitter.com/natefoster"
 -
-    type: "person1"
+    type: "coauthor2"
     pic: "/assets/images/pinky-sm.png"
     name: "Nate Foster"
     title: "Co-Director"
