@@ -1,9 +1,9 @@
-<li class="bio">
+<div class="bio">
 <span class="pic"><img src= "{{ site.baseurl }} {{ bio.pic }}" class="img-responsive img-circle" alt=""></span>
-<span class="name"><h2>{{ bio.name }}</h2></span>
-<span class="title"><h3>{{ bio.title }}</h3></span>
-<span class="college"><p class="text-muted">{{ bio.college }}<p></span>
-<span class="links"><p class="list-inline social-buttons">
-{{ bio.links}} </p>
-</span>
-</li>
+<h2 class="name"><{{ bio.name }}</h2>
+<h3 class="title">{{ bio.title }}</h3>
+<h3 class="college" class="text-muted">{{ bio.college }}</h3>
+<ul class="links" class="list-inline social-buttons">
+{{ bio.links}}
+</ul>
+</div>
