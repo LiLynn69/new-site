@@ -42,7 +42,7 @@ feature_row2:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Tammy"
     title: "Speed Talkin' Tammy"
-    excerpt: "Her talking will wear you out on the steepest of climbs"
+    excerpt: "Sucks the energy right outa ya"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
