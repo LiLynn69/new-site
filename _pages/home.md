@@ -7,7 +7,17 @@ header:
  
 excerpt: >
   Gravel Grinding Wine Drinking Women "Just pure trouble!"
+intro:
+  excerpt: Check out this crazy bunch of fun loving, hard riding, wine drinking women.
 feature_row:
+  - image_path: /assets/images/
+    alt: "group"
+    title: "The Team"
+    excerpt: "Extreme Fun"
+    url: "/the-team/"
+    btn_class: "btn--primary"
+    btn_label: "Words to live by"
+feature_row2:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Ruthless"
     title: "Super Ruthless"
@@ -30,12 +40,13 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more" 
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "Ruthless"
-    title: "Super Ruthless"
-    excerpt: "Makes the boys cry"
+    alt: "Tammy"
+    title: "Speed Talkin' Tammy"
+    excerpt: "Her talking will wear you out on the steepest of climbs"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
-
-{% include feature_row %}
+{% include feature_row id="intro" type="center" %}
+{% include feature_row type="center" %}
+{% include feature_row id="feature_row2" %}
