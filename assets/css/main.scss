@@ -4,7 +4,7 @@
 @import "minimal-mistakes"; // main partials
 
 .site-logo img {
-  max-height: 1.8rem;
+  max-height: 2rem;
 }
 
 //Team member stuff
@@ -169,3 +169,14 @@ background-color: #fed136
   padding-right: 15px;
   padding-left: 15px;
 }
+
+/*. Gallery images */
+{% if gallery_size == '2' %}
+  {% assign gallery_layout = 'half' %}
+{% elsif gallery_size == '3' %}
+  {% assign gallery_layout = 'third' %}
+{% elsif gallery_size >= '4' %}
+  {% assign gallery_layout = 'fourth' %}
+{% else %}
+  {% assign gallery_layout = '' %}
+{% endif %}
