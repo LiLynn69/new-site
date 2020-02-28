@@ -10,7 +10,7 @@ excerpt: >
 intro:
   excerpt: Check out this crazy bunch of fun loving, hard riding, wine drinking women.
 feature_row:
-  - image_path: /assets/images/glamour.jpg
+  - image_path: /assets/images/group.png
     alt: "group"
     title: "The Team"
     excerpt: "Ride Like Hell and then Wine Down"
