@@ -2,7 +2,6 @@
 title: Our Motto
 layout: collection
 permalink: /motto/
-classes: landing
 header:
   overlay_image: /assets/image/jersey.jpg
 intro:
