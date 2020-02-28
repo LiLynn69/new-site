@@ -22,7 +22,7 @@ feature_row2:
     alt: "Ruthless"
     title: "Super Ruthless"
     excerpt: "Makes the boys cry"
-  - image_path: /assets/images/Loveral.png
+  - image_path: /assets/images/L-nys.png
     alt: "LiLynn"
     title: "Boobless LiLynn"
     excerpt: "Never had them, now occasionally does"
