@@ -33,7 +33,7 @@ feature_row2:
   - image_path: /assets/images/Tcover.png
     alt: "Tammy"
     title: "Speed Talkin' Tammy"
-    excerpt: "Sucks the energy right outa ya"
+    excerpt: "Sucks the energy right outa the competition"
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row type="center" %}
