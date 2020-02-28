@@ -8,7 +8,7 @@ header:
 excerpt: >
   Gravel Grinding Wine Drinking Women "Just pure trouble!"
 intro:
-  excerpt: Check out this crazy bunch of fun loving, hard riding, wine drinking women.
+  - excerpt: 'Check out this crazy bunch of fun loving, hard riding, wine drinking women.'
 feature_row:
   - image_path: /assets/images/group.png
     alt: "group"
