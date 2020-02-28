@@ -14,7 +14,7 @@ feature_row:
     alt: "group"
     title: "The Team"
     excerpt: "Ride Like Hell and then Wine Down"
-    url: "/the-team/"
+    url: "/motto/"
     btn_class: "btn--primary"
     btn_label: "Words to live by"
 feature_row2:
