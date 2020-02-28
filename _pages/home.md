@@ -30,6 +30,7 @@ feature_row2:
     alt: "Susan"
     title: "Abusin Susan"
     excerpt: "Inocent looking but bad to the bone"
+feature_row3:
   - image_path: /assets/images/Tcover.png
     alt: "Tammy"
     title: "Speed Talkin' Tammy"
@@ -37,4 +38,5 @@ feature_row2:
 ---
 {% include feature_row id="intro" type="center" %}
 {% include feature_row type="left" %}
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row3" type="left" %}
