@@ -18,7 +18,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Words to live by"
 feature_row2:
-  - image_path: /assets/images/R-cover.png
+  - image_path: /assets/images/RCover.png
     alt: "Ruthless"
     title: "Super Ruthless"
     excerpt: "Makes the boys cry"
