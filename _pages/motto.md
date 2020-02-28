@@ -1,8 +1,7 @@
 ---
 title: Our Motto
-layout: collection
 permalink: /motto/
-classes: landing
+classes: wide
 header:
   overlay_image: /assets/image/ruth.jpg
 intro:
