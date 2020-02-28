@@ -35,6 +35,6 @@ feature_row2:
     title: "Speed Talkin' Tammy"
     excerpt: "Sucks the energy right outa the competition"
 ---
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="left" %}
 {% include feature_row type="center" %}
 {% include feature_row id="feature_row2" %}
