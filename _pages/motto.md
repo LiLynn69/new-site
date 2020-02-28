@@ -6,7 +6,7 @@ classes: landing
 header:
   overlay_image: /assets/image/jersey.jpg
 intro:
-    - excerpt: 'Aged like a fine wine but faster than a locomotive. We Ride like Hell and then Wine Down!'
+  - excerpt: 'Aged like a fine wine but faster than a locomotive. We Ride like Hell and then Wine Down!'
 gallery:
   - url: /assets/images/R-podium.jpg
     image_path: /assets/images/R-podium.jpg
