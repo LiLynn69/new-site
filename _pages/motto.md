@@ -27,8 +27,5 @@ gallery:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
 {% include gallery class="fourth" caption="Attitude wins the race!%}
-
----
-
-{% include feature_row id="intro" type="center" %}
