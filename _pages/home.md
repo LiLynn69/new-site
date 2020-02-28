@@ -26,11 +26,11 @@ feature_row2:
     alt: "LiLynn"
     title: "Boobless LiLynn"
     excerpt: "Never had them, now occasionally does"
-  - image_path: /assets/images/Srace.jpg
+  - image_path: /assets/images/S-racing.png
     alt: "Susan"
     title: "Abusin Susan"
     excerpt: "Inocent looking but bad to the bone"
-  - image_path: /assets/images/t-podium.jpg
+  - image_path: /assets/images/Toveral.png
     alt: "Tammy"
     title: "Speed Talkin' Tammy"
     excerpt: "Sucks the energy right outa ya"
