@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/glamour.jpg
     alt: "group"
     title: "The Team"
-    excerpt: "Extreme Fun"
+    excerpt: "Ride Like Hell and then Wine Down"
     url: "/the-team/"
     btn_class: "btn--primary"
     btn_label: "Words to live by"
