@@ -1,6 +1,7 @@
 ---
 title: Our Motto
 permalink: /motto/
+layout: post
 classes: wide
 header:
   overlay_image: /assets/image/jersey.jpg
