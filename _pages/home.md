@@ -18,19 +18,19 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Words to live by"
 feature_row2:
-  - image_path: /assets/images/Ruth.png
+  - image_path: /assets/images/Rcover.png
     alt: "Ruthless"
     title: "Super Ruthless"
     excerpt: "Makes the boys cry"
-  - image_path: /assets/images/L-nys.png
+  - image_path: /assets/images/Ldircover.png
     alt: "LiLynn"
     title: "Boobless LiLynn"
     excerpt: "Never had them, now occasionally does"
-  - image_path: /assets/images/S-racing.png
+  - image_path: /assets/images/Susancover.png
     alt: "Susan"
     title: "Abusin Susan"
     excerpt: "Inocent looking but bad to the bone"
-  - image_path: /assets/images/Toveral.png
+  - image_path: /assets/images/Tcover.png
     alt: "Tammy"
     title: "Speed Talkin' Tammy"
     excerpt: "Sucks the energy right outa ya"
