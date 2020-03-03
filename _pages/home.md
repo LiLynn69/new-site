@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/bridge.jpg
+  overlay_image: /assets/images/jersey.jpg
  
 excerpt: >
   Gravel Grinding Wine Drinking Women "Just pure trouble!"
