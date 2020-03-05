@@ -1,9 +1,8 @@
 ---
 title: Our Motto
+layout: single
 permalink: /motto/
-classes:
- - landing
- - wide
+classes: wide
 header:
   overlay_image: /assets/image/Relitegrp.jpg
 intro:
