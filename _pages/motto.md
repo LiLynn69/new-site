@@ -5,7 +5,7 @@ classes:
  - landing
  - wide
 header:
-  overlay_image: /assets/image/jersey.jpg
+  overlay_image: /assets/image/Relitegrp.jpg
 intro:
   - excerpt: 'Aged like a fine wine but faster than a locomotive. We Ride like Hell and then Wine Down!'
 ---
